@@ -1,0 +1,11 @@
+{
+  "name": "validation-krishnadev",
+  "version": "1.0.1",
+  "description": "Validation library",
+  "main": "Validation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
